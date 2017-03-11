@@ -1,3 +1,4 @@
 <?php
-  echo 'Hello World!';
+  // My first PHP script!
+  echo 'Hello World!'; //Done
 ?>
